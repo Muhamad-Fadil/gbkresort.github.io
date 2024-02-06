@@ -6,6 +6,7 @@
   --hitam: #000;
   --abu: #323232;
   --font: #020826;
+  --bg: #f9f5f0;
 }
 
 * {
@@ -13,7 +14,7 @@
 }
 
 body {
-  background-color: #f9f5f0;
+  background-color: var(--bg);
 }
 
 .navbar-brand {
@@ -54,6 +55,11 @@ body {
 
 .bi.bi-cup-straw {
   font-size: 1.5rem;
+}
+
+#icon {
+  width: 28px;
+  cursor: pointer;
 }
 
 #hero {

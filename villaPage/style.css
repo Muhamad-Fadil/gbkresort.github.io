@@ -76,12 +76,13 @@ body {
 }
 
 .villa-card {
-  border: 1px solid #dee2e6;
+  border: 2px solid var(--hitam);
   border-radius: 8px;
   margin-bottom: 20px;
 }
 
 .villa-card img {
+  border: 2px solid var(--hitam);
   max-width: 100%;
   height: auto;
   border-top-left-radius: 8px;
@@ -98,6 +99,10 @@ body {
 
 .villa-details p {
   font-size: 16px;
+}
+
+.villa-details ul {
+  font-size: 15px;
 }
 
 /* Media Queri */
