@@ -118,6 +118,15 @@ body {
   margin-bottom: 10px;
 }
 
+footer {
+  background-color: var(--coklat3);
+  padding: 20px 0;
+}
+
+.footer-text {
+  color: var(--putih);
+}
+
 /* Media Queri */
 
 /* Laptop */

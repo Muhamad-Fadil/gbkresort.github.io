@@ -246,6 +246,14 @@ body {
   border: 2px solid #392a12;
 }
 
+footer {
+  background-color: var(--coklat3);
+  padding: 20px 0;
+}
+
+.footer-text {
+  color: var(--putih);
+}
 /* Media Queri */
 
 /* Laptop */
