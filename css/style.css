@@ -219,27 +219,27 @@ body {
   background-color: var(--coklat1);
 }
 
-form {
+.contact {
   padding: 4rem 7% 1.4rem;
 }
 
-form h2 {
+.contact h2 {
   text-align: center;
   font-size: 2.6rem;
   margin-bottom: 4rem;
   font-weight: 700;
 }
 
-form h2 span {
+.contact h2 span {
   color: var(--coklat2);
 }
 
-form .form-label {
+.contact .form-label {
   font-weight: 600;
   text-shadow: 1px 1px 3px rgba(1, 1, 1, 0.1);
 }
 
-form .form-control {
+.contact .form-control {
   background-color: var(--coklat1);
   color: var(--font);
   font-weight: 500;
