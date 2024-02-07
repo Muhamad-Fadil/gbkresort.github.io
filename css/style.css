@@ -219,27 +219,27 @@ body {
   background-color: var(--coklat1);
 }
 
-.contact {
+form {
   padding: 4rem 7% 1.4rem;
 }
 
-.contact h2 {
+form h2 {
   text-align: center;
   font-size: 2.6rem;
   margin-bottom: 4rem;
   font-weight: 700;
 }
 
-.contact h2 span {
+form h2 span {
   color: var(--coklat2);
 }
 
-.contact .form-label {
+form .form-label {
   font-weight: 600;
   text-shadow: 1px 1px 3px rgba(1, 1, 1, 0.1);
 }
 
-.contact .form-control {
+form .form-control {
   background-color: var(--coklat1);
   color: var(--font);
   font-weight: 500;
@@ -251,8 +251,14 @@ footer {
   padding: 20px 0;
 }
 
-.footer-text {
+footer .footer-text {
   color: var(--putih);
+}
+
+footer .social-icon {
+  font-size: 24px;
+  color: var(--putih);
+  margin-right: 10px;
 }
 /* Media Queri */
 
