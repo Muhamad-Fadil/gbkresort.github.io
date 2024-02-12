@@ -178,6 +178,13 @@ body {
   color: var(--font);
 }
 
+.about .content  ul li {
+  font-size: 1.3rem;
+  font-weight: 400;
+  line-height: 1.4rem;
+  color: var(--font);
+}
+
 .services {
   padding: 7rem 7% 1.4rem;
 }
